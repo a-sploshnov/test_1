@@ -1,4 +1,8 @@
 1.	osnovy raboty s terminalom
 2.	itproger.com
 3. git init - гит "разворачивается" в текущей папке
-3. git rm --cached имя файла - удалить файл из ожидания
+4. git rm --cached имя файла - удалить файл из ожидания
+5. git log - просмотр логов
+6. git log --oneline  - логи коротко в одну строку
+7. git checkout id "лога" - просмотр версии данного лога
+8. git checkout master - просмотр текущей версии
