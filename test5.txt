@@ -1,1 +1,1 @@
-'Sploshnov Aleksandr Vladimirivich' 
+файл игнорируется git-om
