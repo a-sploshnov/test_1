@@ -1,2 +1,4 @@
-file.log 
-test5.txt 
+file.log
+test5.txt
+*.log
+*.ini
