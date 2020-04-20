@@ -1,4 +1,4 @@
-1.	osnovy raboty s terminalom
+1.	osnovy raboty s terminalom - https://www.youtube.com/watch?v=PMopSb1fxuw&feature=emb_logo
 2.	itproger.com
 3. git init - гит "разворачивается" в текущей папке
 4. git rm --cached имя файла - удалить файл из ожидания
